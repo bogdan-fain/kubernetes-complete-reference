@@ -1,11 +1,11 @@
 # kubernetes-complete-reference
 
-![Visits Badge](https://badges.pufler.dev/visits/ssbostan/kubernetes-complete-reference)
-![GitHub last commit](https://img.shields.io/github/last-commit/ssbostan/kubernetes-complete-reference)
-[![GitHub license](https://img.shields.io/github/license/ssbostan/kubernetes-complete-reference)](https://github.com/ssbostan/kubernetes-complete-reference/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ssbostan/kubernetes-complete-reference)](https://github.com/ssbostan/kubernetes-complete-reference/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ssbostan/kubernetes-complete-reference)](https://github.com/ssbostan/kubernetes-complete-reference/network)
-[![GitHub issues](https://img.shields.io/github/issues/ssbostan/kubernetes-complete-reference)](https://github.com/ssbostan/kubernetes-complete-reference/issues)
+![Visits Badge](https://badges.pufler.dev/visits/bogdan-fain/kubernetes-complete-reference)
+![GitHub last commit](https://img.shields.io/github/last-commit/bogdan-fain/kubernetes-complete-reference)
+[![GitHub license](https://img.shields.io/github/license/bogdan-fain/kubernetes-complete-reference)](https://github.com/bogdan-fain/kubernetes-complete-reference/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/bogdan-fain/kubernetes-complete-reference)](https://github.com/bogdan-fain/kubernetes-complete-reference/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/bogdan-fain/kubernetes-complete-reference)](https://github.com/bogdan-fain/kubernetes-complete-reference/network)
+[![GitHub issues](https://img.shields.io/github/issues/bogdan-fain/kubernetes-complete-reference)](https://github.com/bogdan-fain/kubernetes-complete-reference/issues)
 
 <p align="center">
  <img alt="Kubernetes Logo" src="https://kubernetes.io/images/kubernetes-horizontal-color.png">
