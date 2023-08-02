@@ -11,6 +11,11 @@
  <img alt="Kubernetes Logo" src="https://kubernetes.io/images/kubernetes-horizontal-color.png">
 </p>
 
+### GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bogdan-fain&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bogdan-fain&theme=synthwave&show_icons=false&hide_border=true&count_private=true" />
+</p>
 <p align="center">The completest reference for the <strong>Kubernetes</strong> container orchestration engine.</p>
 
 <p align="center">Created by <a href="https://github.com/ssbostan">ssbostan</a> and contributors.</p>
